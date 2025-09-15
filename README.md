@@ -1,3 +1,3 @@
 # React_Practice
 With "Code Step By Step"...
-![Uploading Gemini_Generated_Image_xdn79xdn79xdn79x.png…]()
+!Gemini_Generated_Image_xdn79xdn79xdn79x.png 
